@@ -1,3 +1,7 @@
 Get the user data ...
 Process the data
+<<<<<<< HEAD
 login log out
+=======
+create an avator for user
+>>>>>>> feature2

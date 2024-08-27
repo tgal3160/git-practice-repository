@@ -1,2 +1,8 @@
 add and remove users
+<<<<<<< HEAD
 change the roles
+=======
+change the roles
+change the database
+closing the connection
+>>>>>>> feature2
